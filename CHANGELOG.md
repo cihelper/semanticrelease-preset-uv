@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.2](https://github.com/cihelper/semanticrelease-preset-uv/compare/v1.0.1...v1.0.2) (2024-11-14)
+
+### Bug Fixes
+
+* update uv plugin ([404ebbf](https://github.com/cihelper/semanticrelease-preset-uv/commit/404ebbf098b7887d2a475bd0fa0efe2a5d578e73))
+
 ## [1.0.1](https://github.com/cihelper/semanticrelease-preset-uv/compare/v1.0.0...v1.0.1) (2024-11-14)
 
 ### Bug Fixes

@@ -1,6 +1,6 @@
 {
   "name": "@cihelper/semanticrelease-preset-uv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Semantic Release configuration for Python projects using uv",
   "type": "module",
   "main": ".releaserc.js",
