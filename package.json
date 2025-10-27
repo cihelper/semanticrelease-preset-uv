@@ -25,11 +25,11 @@
   },
   "homepage": "https://github.com/cihelper/semanticrelease-preset-uv#README",
   "dependencies": {
+    "@cihelper/semanticrelease-plugin-uv": "^1",
     "@semantic-release/changelog": "^6",
     "@semantic-release/git": "^10",
     "semantic-release": "^25.0.0",
     "conventional-changelog-conventionalcommits": "^9.0.0",
-    "@cihelper/semanticrelease-plugin-uv": "^1",
     "semantic-release-major-tag": "^0.3"
   },
   "devDependencies": {
