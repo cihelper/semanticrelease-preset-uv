@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/cihelper/semanticrelease-preset-uv/compare/v1.1.0...v1.1.1) (2025-10-27)
+
+### Bug Fixes
+
+* trigger release ([dd961ba](https://github.com/cihelper/semanticrelease-preset-uv/commit/dd961baaceb94387d16fef4f6af4e347b907602c))
+* update deps ([5f579a2](https://github.com/cihelper/semanticrelease-preset-uv/commit/5f579a269d3908b014fb13bb34ed22a94c972e25))
+
 ## [1.1.0](https://github.com/cihelper/semanticrelease-preset-uv/compare/v1.0.2...v1.1.0) (2025-02-02)
 
 ### Features
